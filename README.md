@@ -1,4 +1,4 @@
-# Mail-Classification
+# Mail-Classification-System / SPAM Detection
 
 [- Mini-Projet ML4NLP -- MS IDDLo -- FSRabat -] 
 
