@@ -1,6 +1,6 @@
 # Mail-Classification
 
-- Mini-Projet NLP - 
+[- Mini-Projet ML4NLP -- MS IDDLo -- FSRabat -] 
 
 Système de détection de SPAM développé grâce aux bibliothèques SKLearn &amp; NLTK de Pyhton, sur Jupyter Notebook.
 
